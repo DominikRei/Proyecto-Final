@@ -1,0 +1,93 @@
+*{
+    font-family: 'Lora', serif;
+    font-size: 24px;
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height: auto;
+}
+.primaria {
+    background-color: #726d65;
+    width: auto;
+    height: auto;
+}
+.imagen {
+    display: inline-block;
+    background-color: #726d65;
+    background-size: left;
+    width: 4em;
+    height: 4em;
+    padding: 1em;
+    margin: 12px;
+}
+.title{ 
+    display: inline-block;
+    background-color: #726d65;
+    text-align: center;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-size: 3em;
+    padding: 1em;
+    margin: 12px;
+}
+.navegacion { 
+    background-color: #726d65;
+    background-color: #88001bc9;
+    text-align: center;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 1em;
+    margin: 1em;
+    font-weight: 900;
+    font-size: 1em;
+}
+ul li a { 
+    text-decoration: none; 
+}
+.descripcion { 
+    background-color: #726d65;
+    text-align: justify;
+    width: 100%;
+    height: 100%;
+}
+.slider-container {
+}
+.item-img {
+}
+.subtitle {
+    background-color: #726d65;
+    text-align: center;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-size: 3em;
+}
+.subtitle2 {
+    background-color: #726d65;
+    background-color: #3d3933;
+    text-align: center;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-size: 2em;
+}
+.about { 
+    background-color: #726d65;
+    
+}
+.derechos {
+    background-color: #726d65;
+    text-align: center;
+}
+.navegacion2 {
+    background-color: #726d65;
+    background-color: #88001bc9;
+    text-align: center;
+}
+.media {
+    background-size: center;
+    width: 100%;
+    height: 100%;
+}
+.video {
+    background-size: center;
+    width: 100%;
+    height: 520px;
+}
