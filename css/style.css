@@ -1,3 +1,24 @@
+/* Mobile*/
+@media only screen and (max-width: 500px) {
+    
+    body {  
+        background-color: #726d65; 
+    }
+}
+/* Tablet*/
+@media only screen and (min-width: 501px) and (max-width: 960px) {
+    
+    body {    
+        background-color: #726d65; 
+    }
+}
+/*Desktop*/
+@media only screen and (min-width: 961px) and
+ {
+    body { 
+        background-color: #726d65; 
+    }
+}
 *{
     font-family: 'Lora', serif;
     font-size: 24px;
@@ -52,8 +73,13 @@ ul li a {
     height: 100%;
 }
 .slider-container {
+    display: flex;
+    width: 900px;
+    flex-wrap: wrap;
 }
 .item-img {
+    width: auto;
+    height: auto;
 }
 .subtitle {
     background-color: #726d65;
